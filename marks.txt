@@ -1,16 +1,16 @@
-  Course            CourseName           ClassAvg ClassSize    Credits Notation   Grade          GPA   Include   Credits       PCE       WGP
-   BIOL      225    FORM & FUNCTION OF ORGANISMS                  3.00              D-          0.70      1.00      3.00      3.00      2.10
-   BIOL      261    MOLECULAR & GENERAL GENETICS                  3.00   DISC                   0.00      0.00      3.00      0.00      0.00
-   MATH      201    ELEMENTARY FUNCTIONS                          3.00              A+          4.30      1.00      3.00      3.00     12.90
-   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                   3.00   DISC                   0.00      0.00      3.00      0.00      0.00
-   BIOL      226    BIODIVERSITY AND ECOLOGY                      3.00              F           0.00      0.00      3.00      0.00      0.00
-   BIOL      261    MOLECULAR & GENERAL GENETICS                  3.00              D-          0.70      1.00      3.00      3.00      2.10
-   FRAN      211    FRENCH LANGUAGE: ELEMENTARY                   3.00              C+          2.30      1.00      3.00      3.00      6.90
-   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                   3.00              D-          0.70      0.00      3.00      0.00      0.00
-   BIOL      226    BIODIVERSITY AND ECOLOGY                      3.00              C           2.00      1.00      3.00      3.00      6.00
-   FRAN      212    FRENCH LANGUAGE: TRANSITION                   3.00              C           2.00      1.00      3.00      3.00      6.00
-   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              F           0.00      0.00      3.00      0.00      0.00
-   FRAN      213    LANG FRAN:NIV.INTERMED I&II                   6.00              D-          0.70      0.00      6.00      0.00      0.00
+  Course            CourseName           ClassAvg ClassSize  Credits   Notation   Grade      GPA     Include   Credits     PCE       WGP    
+   BIOL      225    FORM & FUNCTION OF ORGANISMS                3                   D-          0.70      1.00      3.00      3.00      2.10
+   BIOL      261    MOLECULAR & GENERAL GENETICS                3        DISC                   0.00      0.00      3.00      0.00      0.00
+   MATH      201    ELEMENTARY FUNCTIONS                        3                   A+          4.30      1.00      3.00      3.00     12.90
+   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3        DISC                   0.00      0.00      3.00      0.00      0.00
+   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   F           0.00      0.00      3.00      0.00      0.00
+   BIOL      261    MOLECULAR & GENERAL GENETICS                3                   D-          0.70      1.00      3.00      3.00      2.10
+   FRAN      211    FRENCH LANGUAGE: ELEMENTARY                 3                   C+          2.30      1.00      3.00      3.00      6.90
+   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3                   D-          0.70      0.00      3.00      0.00      0.00
+   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   C           2.00      1.00      3.00      3.00      6.00
+   FRAN      212    FRENCH LANGUAGE: TRANSITION                 3                   C           2.00      1.00      3.00      3.00      6.00
+   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                3                   F           0.00      0.00      3.00      0.00      0.00
+   FRAN      213    LANG FRAN:NIV.INTERMED I&II                 6                   D-          0.70      0.00      6.00      0.00      0.00
    MATH      202    COLLEGE ALGEBRA                               3.00              A+          4.30      1.00      3.00      3.00     12.90
    PHYS      204    MECHANICS                                     3.00              C+          2.30      0.00      3.00      0.00      0.00
    PHYS      224    INTRO EXPERIMENTAL MECHANICS                  3.00              A           4.00      1.00      3.00      3.00     12.00
@@ -53,8 +53,5 @@
    MAST      219    MULTIVARIABLE CALCULUS II                     3.00              A+          4.30      1.00      3.00      3.00     12.90
    MAST      335    INVESTMENT MATHEMATICS                        3.00              A           4.00      1.00      3.00      3.00     12.00
    MATH      366    COMPLEX ANALYSIS                              3.00              A           4.00      1.00      3.00      3.00     12.00
-   PHYS      206    Waves and Modern Physics                      3.00              A           4.00      1.00      3.00      3.00     12.00
-   PHYS      225    Introductory Experimental Electricity         1.00              A           4.00      1.00      1.00      1.00      4.00
-   PHYS      226    Introductory Experimental Waves and Mode      1.00              A           4.00      1.00      1.00      1.00      4.00
-                                                                                                         30.00               90.00    314.30
-                                                                                                                                        3.49
+                                                                                                         30.00               90.00    294.30
+                                                                                                                                        3.27
