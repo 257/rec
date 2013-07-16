@@ -3,7 +3,7 @@
    BIOL      261    MOLECULAR & GENERAL GENETICS                3        DISC                   0.00      0.00      3.00      0.00      0.00
    MATH      201    ELEMENTARY FUNCTIONS                        3                   A+          4.30      1.00      3.00      3.00     12.90
    MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3        DISC                   0.00      0.00      3.00      0.00      0.00
-   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   F           0.00      0.00      3.00      0.00      0.00          
+   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   F           0.00      0.00      3.00      0.00      0.00
    BIOL      261    MOLECULAR & GENERAL GENETICS                3                   D-          0.70      1.00      3.00      3.00      2.10
    FRAN      211    FRENCH LANGUAGE: ELEMENTARY                 3                   C+          2.30      1.00      3.00      3.00      6.90
    MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3                   D-          0.70      0.00      3.00      0.00      0.00
