@@ -1006,17 +1006,10 @@ let T54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let U54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let V54 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 label A55 = "BIOL"
-<<<<<<< HEAD
-label B55 = "225"
-label C55 = "FORM & FUNCTION OF ORGANISMS"
-let G55 = 3
-label I55 = "D-"
-=======
 label B55 = "261"
 label C55 = "MOLECULAR & GENERAL GENETICS"
 let G55 = 3
 label I55 = "A"
->>>>>>> fall-no_science_profile-re_bio261
 let J55 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
 let K55 = 1
 let L55 = 3
@@ -1030,4 +1023,22 @@ let S55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let T55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let U55 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let V55 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto K55 A34
+label A56 = "BIOL"
+label B56 = "225"
+label C56 = "FORM & FUNCTION OF ORGANISMS"
+let G56 = 3
+label I56 = "A"
+let J56 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
+let K56 = 1
+let L56 = 3
+let M56 = @nval(@coltoa(@mycol-2),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
+let N56 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
+let O56 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
+let P56 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
+let Q56 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
+let R56 = @nval(@coltoa(@mycol-7),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
+let S56 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
+let T56 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
+let U56 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
+let V56 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
+goto K56 A35
