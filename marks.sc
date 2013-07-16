@@ -738,4 +738,4 @@ let K55 = @sum(is_included)
 let M55 = @sum(credits)
 let N55 = @sum(wgp)
 let N56 = @nval(@coltoa(@mycol),@myrow-1)/@nval(@coltoa(@mycol-1),@myrow-1)
-goto N55 D32
+goto O8 K0
