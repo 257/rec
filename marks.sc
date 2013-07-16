@@ -565,5 +565,5 @@ let N53 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
 let K54 = @sum(K1:K53)
 let M54 = @sum(credits)
 let N54 = @sum(wgp)
-let N55 = @nval("n",@myrow-1)/@nval("m",@myrow-1)
-goto A10 A9
+let N55 = @nval(@coltoa(@mycol),@myrow-1)/@nval(@coltoa(@mycol-1),@myrow-1)
+goto N55 A35
