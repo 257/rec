@@ -1,60 +1,60 @@
   Course            CourseName           ClassAvg ClassSize  Credits   Notation   Grade      GPA     Include   Credits     PCE       WGP    CreditsSF 
-   BIOL      225    FORM & FUNCTION OF ORGANISMS                3                   D-          0.70      1.00      3.00      3.00      2.10     78.00
-   BIOL      261    MOLECULAR & GENERAL GENETICS                3        DISC                   0.00      0.00      3.00      0.00      0.00     78.00
-   MATH      201    ELEMENTARY FUNCTIONS                        3                   A+          4.30      1.00      3.00      3.00     12.90     81.00
-   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3        DISC                   0.00      0.00      3.00      0.00      0.00     81.00
-   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   F           0.00      0.00      3.00      0.00      0.00     84.00
-   BIOL      261    MOLECULAR & GENERAL GENETICS                3                   D-          0.70      1.00      3.00      3.00      2.10     87.00
-   FRAN      211    FRENCH LANGUAGE: ELEMENTARY                 3                   C+          2.30      1.00      3.00      3.00      6.90     85.00
-   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3                   D-          0.70      0.00      3.00      0.00      0.00     83.00
-   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   C           2.00      1.00      3.00      3.00      6.00     83.00
-   FRAN      212    FRENCH LANGUAGE: TRANSITION                 3                   C           2.00      1.00      3.00      3.00      6.00     80.00
-   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                3                   F           0.00      0.00      3.00      0.00      0.00     77.00
-   FRAN      213    LANG FRAN:NIV.INTERMED I&II                 6                   D-          0.70      0.00      6.00      0.00      0.00     77.00
-   MATH      202    COLLEGE ALGEBRA                               3.00              A+          4.30      1.00      3.00      3.00     12.90     77.00
-   PHYS      204    MECHANICS                                     3.00              C+          2.30      0.00      3.00      0.00      0.00     74.00
-   PHYS      224    INTRO EXPERIMENTAL MECHANICS                  3.00              A           4.00      1.00      3.00      3.00     12.00     74.00
-   FRAN      212    FRENCH LANGUAGE: TRANSITION                   3.00              B-          2.70      0.00      3.00      0.00      0.00     71.00
-   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              D+          1.30      0.00      3.00      0.00      0.00     71.00
-   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                   3.00              A+          4.30      1.00      3.00      3.00     12.90     71.00
-   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              C+          2.30      0.00      3.00      0.00      0.00     68.00
-   FRAN      213    LANG FRAN:NIV.INTERMED I&II                   3.00              C           2.00      1.00      3.00      3.00      6.00     68.00
-   MATH      204    VECTORS AND MATRICES                          3.00              A+          4.30      1.00      3.00      3.00     12.90     65.00
-   PHYS      204    MECHANICS                                     3.00              A+          4.30      1.00      3.00      3.00     12.90     62.00
-   FRAN      213    LANG FRAN:NIV.INTERMED I&II                   3.00              B           3.00      1.00      3.00      3.00      9.00     59.00
-   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              B           3.00      0.00      3.00      0.00      0.00     56.00
-   MATH      251    LINEAR ALGEBRA I                              3.00              B+          3.30      0.00      3.00      0.00      0.00     56.00
-   FRAN      219    INITIATION AU FRANCAIS ECRIT                  3.00              F           0.00      0.00      3.00      0.00      0.00     56.00
-   FRAN      221    CORRECTION PHONETIQUE                         3.00   FNS                    0.00      0.00      3.00      0.00      0.00     56.00
-   MAST      218    MULTIVARIABLE CALCULUS I                      3.00              F           0.00      0.00      3.00      0.00      0.00     56.00
-   PHYS      205    ELECTRICITY & MAGNETISM                       3.00              C-          1.70      0.00      3.00      0.00      0.00     56.00
-   FRAN      219    INITIATION AU FRANCAIS ECRIT                  3.00              D-          0.70      1.00      3.00      3.00      2.10     56.00
-   FRAN      221    CORRECTION PHONETIQUE                         3.00              C           2.00      1.00      3.00      3.00      6.00     53.00
-   MAST      218    MULTIVARIABLE CALCULUS I                      3.00              C           2.00      0.00      3.00      0.00      0.00     50.00
-   PHYS      205    ELECTRICITY & MAGNETISM                       3.00              C           2.00      1.00      3.00      3.00      6.00     50.00
-   MAST      214    CALCULUS AND LINEAR ALGEBRA                   3.00              A+          4.30      0.00      3.00      0.00      0.00     47.00
-   MAST      217    INTRO/MATHEMATICAL THINKING                   3.00              A           4.00      1.00      3.00      3.00     12.00     47.00
-   MAST      221    APPLIED PROBABILITY                           3.00   DNW        F           0.00      0.00      3.00      0.00      0.00     44.00
-   PHYS      232    THEORETICAL PHYSICS I                         3.00              A           4.00      1.00      3.00      3.00     12.00     44.00
-   MAST      218    MULTIVARIATE CALCULUS I                       3.00              A           4.00      1.00      3.00      3.00     12.00     41.00
-   MAST      234    LINEAR ALGEBRA & APPLICAT. I                  3.00              A-          3.70      1.00      3.00      3.00     11.10     38.00
-   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              A+          4.30      0.00      3.00      0.00      0.00     35.00
-   COMP      218    FUNDAMENTALS OF PROGRAMMING                   3.00   DISC                   0.00      0.00      3.00      0.00      0.00     35.00
-   MAST      221    APPLIED PROBABILITY    2.29       46          3.00              B+          3.30      1.00      3.00      3.00      9.90     35.00
-   MAST      232    MATH WITH COMPUTER A   2.86       23          3.00              A+          4.30      1.00      3.00      3.00     12.90     32.00
-   MAST      235    LINEAR ALGEBRA & APP   3.51       28          3.00              A+          4.30      1.00      3.00      3.00     12.90     29.00
-   MAST      219    MULTIVARIATE CALCULU    2         56          3.00              B-          2.70      0.00      3.00      0.00      0.00     26.00
-   MAST      223    STOCHASTIC METH/OPERAT.RES.                   3.00   DISC                   0.00      0.00      3.00      0.00      0.00     26.00
-   MAST      224    INTRODUCTION TO OPTI   2.76       45          3.00              A+          4.30      1.00      3.00      3.00     12.90     26.00
-   MAST      333    APPLIED STATISTICS                            3.00   DISC                   0.00      0.00      3.00      0.00      0.00     23.00
-   MAST      331    MATHEMATICAL MODELLI   3.39       29          3.00              A+          4.30      1.00      3.00      3.00     12.90     23.00
-   MATH      392    ELEMENTARY NUMBER TH   3.19       7           3.00              A           4.00      1.00      3.00      3.00     12.00     20.00
-   COMP      206    INTRO TO SOFTWARE SYSTEMS                     3.00              B-          2.70      1.00      3.00      3.00      8.10     17.00
-   MAST      219    MULTIVARIABLE CALCULUS II                     3.00              A+          4.30      1.00      3.00      3.00     12.90     14.00
-   MAST      335    INVESTMENT MATHEMATICS                        3.00              A           4.00      1.00      3.00      3.00     12.00     11.00
-   MATH      366    COMPLEX ANALYSIS                              3.00              A           4.00      1.00      3.00      3.00     12.00      8.00
-   PHYS      206    Waves and Modern Physics                      3.00              A           4.00      1.00      3.00      3.00     12.00      5.00
-   PHYS      226    Introductory Experimental Waves and Mode      1.00              A           4.00      1.00      1.00      1.00      4.00      2.00
-   PHYS      225    Introductory Experimental Electricity         1.00              A           4.00      1.00      1.00      1.00      4.00      1.00
-                                                                                                         33.00               95.00    314.30
-                                                                                                                                        3.31
+   BIOL      225    FORM & FUNCTION OF ORGANISMS                3                   D-          0.70      1.00      3.00      3.00      2.10     95.00    306.30      3.22
+   BIOL      261    MOLECULAR & GENERAL GENETICS                3        DISC                   0.00      0.00      3.00      0.00      0.00     92.00    304.20      3.31
+   MATH      201    ELEMENTARY FUNCTIONS                        3                   A+          4.30      1.00      3.00      3.00     12.90     92.00    304.20      3.31
+   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3        DISC                   0.00      0.00      3.00      0.00      0.00     89.00    291.30      3.27
+   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   F           0.00      0.00      3.00      0.00      0.00     89.00    291.30      3.27
+   BIOL      261    MOLECULAR & GENERAL GENETICS                3                   D-          0.70      1.00      3.00      3.00      2.10     89.00    291.30      3.27
+   FRAN      211    FRENCH LANGUAGE: ELEMENTARY                 3                   C+          2.30      1.00      3.00      3.00      6.90     86.00    289.20      3.36
+   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                 3                   D-          0.70      0.00      3.00      0.00      0.00     83.00    282.30      3.40
+   BIOL      226    BIODIVERSITY AND ECOLOGY                    3                   C           2.00      1.00      3.00      3.00      6.00     83.00    282.30      3.40
+   FRAN      212    FRENCH LANGUAGE: TRANSITION                 3                   C           2.00      1.00      3.00      3.00      6.00     80.00    276.30      3.45
+   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                3                   F           0.00      0.00      3.00      0.00      0.00     77.00    270.30      3.51
+   FRAN      213    LANG FRAN:NIV.INTERMED I&II                 6                   D-          0.70      0.00      6.00      0.00      0.00     77.00    270.30      3.51
+   MATH      202    COLLEGE ALGEBRA                               3.00              A+          4.30      1.00      3.00      3.00     12.90     77.00    270.30      3.51
+   PHYS      204    MECHANICS                                     3.00              C+          2.30      0.00      3.00      0.00      0.00     74.00    257.40      3.48
+   PHYS      224    INTRO EXPERIMENTAL MECHANICS                  3.00              A           4.00      1.00      3.00      3.00     12.00     74.00    257.40      3.48
+   FRAN      212    FRENCH LANGUAGE: TRANSITION                   3.00              B-          2.70      0.00      3.00      0.00      0.00     71.00    245.40      3.46
+   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              D+          1.30      0.00      3.00      0.00      0.00     71.00    245.40      3.46
+   MATH      203    DIFFERENTIAL&INTEGRAL CAL I                   3.00              A+          4.30      1.00      3.00      3.00     12.90     71.00    245.40      3.46
+   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              C+          2.30      0.00      3.00      0.00      0.00     68.00    232.50      3.42
+   FRAN      213    LANG FRAN:NIV.INTERMED I&II                   3.00              C           2.00      1.00      3.00      3.00      6.00     68.00    232.50      3.42
+   MATH      204    VECTORS AND MATRICES                          3.00              A+          4.30      1.00      3.00      3.00     12.90     65.00    226.50      3.48
+   PHYS      204    MECHANICS                                     3.00              A+          4.30      1.00      3.00      3.00     12.90     62.00    213.60      3.45
+   FRAN      213    LANG FRAN:NIV.INTERMED I&II                   3.00              B           3.00      1.00      3.00      3.00      9.00     59.00    200.70      3.40
+   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              B           3.00      0.00      3.00      0.00      0.00     56.00    191.70      3.42
+   MATH      251    LINEAR ALGEBRA I                              3.00              B+          3.30      0.00      3.00      0.00      0.00     56.00    191.70      3.42
+   FRAN      219    INITIATION AU FRANCAIS ECRIT                  3.00              F           0.00      0.00      3.00      0.00      0.00     56.00    191.70      3.42
+   FRAN      221    CORRECTION PHONETIQUE                         3.00   FNS                    0.00      0.00      3.00      0.00      0.00     56.00    191.70      3.42
+   MAST      218    MULTIVARIABLE CALCULUS I                      3.00              F           0.00      0.00      3.00      0.00      0.00     56.00    191.70      3.42
+   PHYS      205    ELECTRICITY & MAGNETISM                       3.00              C-          1.70      0.00      3.00      0.00      0.00     56.00    191.70      3.42
+   FRAN      219    INITIATION AU FRANCAIS ECRIT                  3.00              D-          0.70      1.00      3.00      3.00      2.10     56.00    191.70      3.42
+   FRAN      221    CORRECTION PHONETIQUE                         3.00              C           2.00      1.00      3.00      3.00      6.00     53.00    189.60      3.58
+   MAST      218    MULTIVARIABLE CALCULUS I                      3.00              C           2.00      0.00      3.00      0.00      0.00     50.00    183.60      3.67
+   PHYS      205    ELECTRICITY & MAGNETISM                       3.00              C           2.00      1.00      3.00      3.00      6.00     50.00    183.60      3.67
+   MAST      214    CALCULUS AND LINEAR ALGEBRA                   3.00              A+          4.30      0.00      3.00      0.00      0.00     47.00    177.60      3.78
+   MAST      217    INTRO/MATHEMATICAL THINKING                   3.00              A           4.00      1.00      3.00      3.00     12.00     47.00    177.60      3.78
+   MAST      221    APPLIED PROBABILITY                           3.00   DNW        F           0.00      0.00      3.00      0.00      0.00     44.00    165.60      3.76
+   PHYS      232    THEORETICAL PHYSICS I                         3.00              A           4.00      1.00      3.00      3.00     12.00     44.00    165.60      3.76
+   MAST      218    MULTIVARIATE CALCULUS I                       3.00              A           4.00      1.00      3.00      3.00     12.00     41.00    153.60      3.75
+   MAST      234    LINEAR ALGEBRA & APPLICAT. I                  3.00              A-          3.70      1.00      3.00      3.00     11.10     38.00    141.60      3.73
+   MATH      205    DIFFERENTIAL&INTEGRAL CAL II                  3.00              A+          4.30      0.00      3.00      0.00      0.00     35.00    130.50      3.73
+   COMP      218    FUNDAMENTALS OF PROGRAMMING                   3.00   DISC                   0.00      0.00      3.00      0.00      0.00     35.00    130.50      3.73
+   MAST      221    APPLIED PROBABILITY    2.29       46          3.00              B+          3.30      1.00      3.00      3.00      9.90     35.00    130.50      3.73
+   MAST      232    MATH WITH COMPUTER A   2.86       23          3.00              A+          4.30      1.00      3.00      3.00     12.90     32.00    120.60      3.77
+   MAST      235    LINEAR ALGEBRA & APP   3.51       28          3.00              A+          4.30      1.00      3.00      3.00     12.90     29.00    107.70      3.71
+   MAST      219    MULTIVARIATE CALCULU    2         56          3.00              B-          2.70      0.00      3.00      0.00      0.00     26.00     94.80      3.65
+   MAST      223    STOCHASTIC METH/OPERAT.RES.                   3.00   DISC                   0.00      0.00      3.00      0.00      0.00     26.00     94.80      3.65
+   MAST      224    INTRODUCTION TO OPTI   2.76       45          3.00              A+          4.30      1.00      3.00      3.00     12.90     26.00     94.80      3.65
+   MAST      333    APPLIED STATISTICS                            3.00   DISC                   0.00      0.00      3.00      0.00      0.00     23.00     81.90      3.56
+   MAST      331    MATHEMATICAL MODELLI   3.39       29          3.00              A+          4.30      1.00      3.00      3.00     12.90     23.00     81.90      3.56
+   MATH      392    ELEMENTARY NUMBER TH   3.19       7           3.00              A           4.00      1.00      3.00      3.00     12.00     20.00     69.00      3.45
+   COMP      206    INTRO TO SOFTWARE SYSTEMS                     3.00              B-          2.70      1.00      3.00      3.00      8.10     17.00     57.00      3.35
+   MAST      219    MULTIVARIABLE CALCULUS II                     3.00              A+          4.30      1.00      3.00      3.00     12.90     14.00     48.90      3.49
+   MAST      335    INVESTMENT MATHEMATICS                        3.00              A           4.00      1.00      3.00      3.00     12.00     11.00     36.00      3.27
+   MATH      366    COMPLEX ANALYSIS                              3.00              A           4.00      1.00      3.00      3.00     12.00      8.00     24.00      3.00
+   PHYS      206    Waves and Modern Physics                      3.00              A           4.00      1.00      3.00      3.00      4.00      5.00     12.00      2.40
+   PHYS      226    Introductory Experimental Waves and Mode      1.00              A           4.00      1.00      1.00      1.00      4.00      2.00      8.00      4.00
+   PHYS      225    Introductory Experimental Electricity         1.00              A           4.00      1.00      1.00      1.00      4.00      1.00      4.00      4.00
+                                                                                                         33.00               95.00    306.30
+                                                                                                                                        3.22
