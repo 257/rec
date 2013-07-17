@@ -1006,4 +1006,3 @@ let T54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let U54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let V54 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 goto T54 I26
->>>>>>> summer
