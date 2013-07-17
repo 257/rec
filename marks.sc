@@ -1009,7 +1009,7 @@ label A55 = "BIOL"
 label B55 = "225"
 label C55 = "FORM & FUNCTION OF ORGANISMS"
 let G55 = 3
-label I55 = "D-"
+label I55 = "A"
 let J55 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
 let K55 = 1
 let L55 = 3
@@ -1023,4 +1023,4 @@ let S55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let T55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let U55 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let V55 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto K55 A34
+goto I55 A34
