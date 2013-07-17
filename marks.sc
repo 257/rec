@@ -985,7 +985,7 @@ let Q53 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let R53 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S53 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let T53 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-let U53 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
+let U53 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let V53 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 label A54 = "MATH"
 label B54 = "366"
@@ -1003,6 +1003,6 @@ let Q54 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let R54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let T54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-let U54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
+let U54 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let V54 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto K10 A0
+goto U54 I27
