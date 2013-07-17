@@ -1005,4 +1005,3 @@ let S54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let T54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let U54 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let V54 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto U54 I27
