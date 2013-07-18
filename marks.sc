@@ -1026,4 +1026,4 @@ let P56 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q56 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let R56 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let S56 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto I47 A27
+goto I7 A0
