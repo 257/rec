@@ -272,11 +272,11 @@ let S14 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 label A15 = "PHYS"
 label B15 = "224"
 label C15 = "INTRO EXPERIMENTAL MECHANICS"
-let D15 = 3
+let D15 = 1
 label F15 = "A"
 let G15 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
 let H15 = 1
-let I15 = 3
+let I15 = 1
 let J15 = @nval(@coltoa(@mycol-2),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
 let K15 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
 let L15 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
@@ -990,4 +990,4 @@ let P54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let R54 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let S54 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto H8 A8
+goto D15 A15
