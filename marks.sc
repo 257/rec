@@ -17,6 +17,7 @@ label O0 = "Includedf"
 label P0 = "CreditsSF"
 label R0 = "GPAb"
 label S0 = "Includedb"
+let T0 = 1625.94/3
 label A1 = "BIOL"
 label B1 = "225"
 label C1 = "FORM & FUNCTION OF ORGANISMS"
@@ -35,7 +36,6 @@ let P1 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q1 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let R1 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let S1 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-let T1 = 1625.94/3
 label A2 = "BIOL"
 label B2 = "261"
 label C2 = "MOLECULAR & GENERAL GENETICS"
@@ -1011,8 +1011,8 @@ let P55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let R55 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let S55 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-let T55 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
+let T55 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),0)
 let U55 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let T56 = 1766.09-1625.94
 let U56 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
-goto O55 F33
+goto T0 H0
