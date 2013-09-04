@@ -584,7 +584,7 @@ label B34 = "214"
 label C34 = "CALCULUS AND LINEAR ALGEBRA"
 label E34 = "A+"
 let F34 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
-let G34 = 0
+let G34 = 1
 let H34 = 6
 let I34 = @nval(@coltoa(@mycol-2),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
 let J34 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
@@ -1017,4 +1017,4 @@ let S59 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
 let T59 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S60 = 1766.09-1625.94
 let T60 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
-goto O9 A0
+goto G34 A4
