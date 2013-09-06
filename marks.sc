@@ -176,7 +176,7 @@ label B10 = "212"
 label C10 = "FRENCH LANGUAGE: TRANSITION"
 label E10 = "C"
 let F10 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
-let G10 = 1
+let G10 = 0
 let H10 = 6
 let I10 = @nval(@coltoa(@mycol-2),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
 let J10 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
@@ -943,4 +943,4 @@ let S55 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
 let T55 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S56 = 1766.09-1625.94
 let T56 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
-goto G34 A0
+goto G9 A9
