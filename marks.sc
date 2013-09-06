@@ -937,7 +937,7 @@ let O54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let P54 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q54 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let R54 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-let S54 = 9855.36
+let S54 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
 let T54 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 label A55 = "MATH"
 label B55 = "364"
@@ -956,10 +956,10 @@ let O55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let P55 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q55 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let R55 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-let S55 = 9855.36
+let S55 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
 let T55 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S56 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
 let T56 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S57 = 1766.09-1625.94
 let T57 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
-goto Q9 A0
+goto B55 A0
