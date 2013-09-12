@@ -976,12 +976,13 @@ label A54 = "MATH"
 label B54 = "366"
 label C54 = "COMPLEX ANALYSIS"
 let D54 = 3
-label F54 = "A"
-let G54 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
-let H54 = 1
-let I54 = 3
-let J54 = @nval(@coltoa(@mycol-2),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
-let K54 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
+label E54 = "A+"
+let F54 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
+let G54 = 1
+let H54 = 3
+let I54 = @nval(@coltoa(@mycol-2),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
+let J54 = @nval(@coltoa(@mycol-4),@myrow)*@nval(@coltoa(@mycol-1),@myrow)
+let K54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let L54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let M54 = @nval(@coltoa(@mycol-2),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let N54 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
@@ -1026,4 +1027,4 @@ let P56 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let Q56 = @nval(@coltoa(@mycol-6),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
 let R56 = @nval(@coltoa(@mycol-1),@myrow)/@nval(@coltoa(@mycol-2),@myrow)
 let S56 = @nval(@coltoa(@mycol-11),@myrow)+@nval(@coltoa(@mycol),@myrow+1)
-goto A56 A31
+goto M54 C21
