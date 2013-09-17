@@ -942,7 +942,7 @@ let T54 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 label A55 = "MATH"
 label B55 = "362"
 label C55 = "ANALYSIS I"
-label E55 = "A"
+label E55 = "A+"
 let F55 = @eqs(@sval(@coltoa(@mycol-1),@myrow),"A+")?4.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A")?4:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"A-")?3.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B+")?3.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B")?3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"B-")?2.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C+")?2.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C")?2:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"C-")?1.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D+")?1.3:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D")?1:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"D-")?0.7:(@eqs(@sval(@coltoa(@mycol-1),@myrow),"F")?0:0))))))))))))
 let G55 = 1
 let H55 = 3
@@ -962,4 +962,4 @@ let S56 = @nval(@coltoa(@mycol-10),@myrow)*@nval(@coltoa(@mycol),1)
 let T56 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
 let S57 = 1766.09-1625.94
 let T57 = @nval(@coltoa(@mycol-1),@myrow)+@nval(@coltoa(@mycol),@myrow-1)
-goto A56 A0
+goto E55 A0
